@@ -2,6 +2,7 @@
 A Python-based web scraper for collecting and cleaning business-related data.
 
 # Features
+
 1. Data Collection:
 Extracts business name, address, phone number, and category.
 2. Data Cleaning:
@@ -27,7 +28,9 @@ Replace the placeholder url in the script with the website you want to scrape (e
 python scraper.py
 
 4. Check the output:
-business_data.csv contains the raw scraped data.
-cleaned_business_data.csv contains the cleaned dataset.
+   
+sample_data.csv(contains the raw scraped data) 
+
+cleaned_business_data.csv(contains the cleaned dataset)
 
 
